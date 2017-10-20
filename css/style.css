@@ -1,0 +1,23 @@
+*{
+	border:0px;
+	text-decoration:none;
+}
+div{
+	border:1px solid #000;
+	height:20px;
+	width:30%;
+}
+/**********************************************/
+header{
+	border:1px solid #333;
+	width:1280px;
+}
+header a{
+	float:left;
+}
+.middle{
+	float:left;
+}
+.right{
+	float:left;
+}
